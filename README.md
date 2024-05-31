@@ -1,4 +1,4 @@
-# Enhanced-Customer-Agent-Experience-Using-GenAI-Enabled-AWS-Connect
+# Enhanced_Customer_Agent_Experience_Using_GenAI-Enabled_AWS_Connect
 ## Why did we choose this problem?
 
 In our daily lives, contact centers from e-commerce platforms encounter several critical challenges:
