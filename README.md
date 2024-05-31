@@ -34,7 +34,7 @@ To enhance customer and agent experiences, we developed a solution leveraging AW
 
 Additionally, **AWS Wisdom Integration** enhances agent support by offering real-time document recommendations based on customer queries, optimizing agent productivity and improving customer experiences.
 
-<img src="https://github.com/Skylarp05/Enhaced-Customer-Agent-Experience-Using-GenAI-Enabled-AWS-Connect/raw/9ae601e730b7a8b918f176bdb9c37585f9208315/Workflow.png" alt="Workflow" width="800"/>
+<img src="https://github.com/Skylarp05/Enhaced-Customer-Agent-Experience-Using-GenAI-Enabled-AWS-Connect/raw/9ae601e730b7a8b918f176bdb9c37585f9208315/Workflow.png" alt="Workflow" width="650"/>
 
 These integrations work together to create a seamless and efficient customer service solution, providing a personalized experience for both customers and agents.
 
